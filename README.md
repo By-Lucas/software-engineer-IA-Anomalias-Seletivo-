@@ -2,8 +2,8 @@
 Aprendizado de máquina - A detecção de anomalias:  Seletivo 
 
 *Instalar bibliotecas no vscode*
-~~~~shell
+~~~shell
 pip install -r requirements.txt
 ~~~
 
-**
+
